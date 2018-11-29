@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: the author
+  description: Testing if meta contains values
+  company: Not applicable
+
+  license: GPL-3.0-or-later
+
+  min_ansible_version: 2.5
+
+  platforms:
+  - name: Fedora
+    versions:
+    - 25
+
+  galaxy_tags: ['database']
